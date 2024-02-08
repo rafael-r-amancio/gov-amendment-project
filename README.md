@@ -30,7 +30,9 @@ Portal da transparência - https://portaldatransparencia.gov.br
 
 Imagem Dashboard - https://bit.ly/3wkdJuc (Image by Vectonauta on Freepik)
 
+### 🗣 Fale Comigo
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ribeiro-amancio/)
 
 [ENGLISH]
 
@@ -46,7 +48,7 @@ Data dictionary is present in the repository.
 
 ### 💻 Technologies
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge /GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafael-r-amancio) ![Hop](https://img.shields.io/badge/ Hop-white?style=for-the-badge&logo=hop&logoColor=blue) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft %20sql%20server&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https ://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafael-r-amancio) ![Hop](https://img.shields.io/badge/Hop-white?style=for-the-badge&logo=hop&logoColor=blue) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🚶‍♀️ Step by Step
 
@@ -67,4 +69,4 @@ Dashboard Image - https://bit.ly/3wkdJuc (Image by Vectonauta on Freepik)
 
 ### 🗣 Talk to Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in /rafael-ribeiro-amancio/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ribeiro-amancio/)
